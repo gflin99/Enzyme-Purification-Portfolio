@@ -6,7 +6,7 @@ This repository hosts the downstream bioprocessing research on the cost-effectiv
 
 ---
 
-## 📄 Academic Abstract (摘要)
+## 📄 Academic Abstract 
 
 **Title:** One-step purification of thermostable carbonic anhydrases from *Sulfurihydrogenibium yellowstonense* and *Sulfurihydrogenibium azorense*  
 **Authors:** Chung-Fu Lin (Isaac Lin), Chia-Jung Hsieh, Chi-Yang Yu*  
@@ -20,7 +20,7 @@ This repository hosts the downstream bioprocessing research on the cost-effectiv
 
 ---
 
-## 🔬 Core Techniques & Methodology (核心製程技術)
+## 🔬 Core Techniques & Methodology 
 不同於傳統複雜的蛋白質純化，本專案的核心在於**「製程簡化」與「熱動力學分離」**：
 *   **Thermal Cell Lysis (熱誘導細胞破碎)：** 利用高溫（70°C–90°C）直接破壞大腸桿菌細胞壁，釋放目標重組蛋白，免除超音波破碎步驟。
 *   **Differential Precipitation (差異性熱沉澱)：** 利用 $Ssp\text{CA}$ 與 $Saz\text{CA}$ 極佳的耐熱特性，在高溫下使大腸桿菌本身的雜蛋白變性並沉澱，透過一階離心即可獲得部分純化的酵素。
@@ -41,4 +41,3 @@ The full academic poster presented at the conference details the optimization cu
 ## 🔗 Cross-Domain Connection (從低成本製程到 AI 數位雙生)
 This project provided me with hands-on, rigorous training in wet-lab bioprocess constraints. Understanding the delicate balance of **temperature, time, and yield** in enzyme engineering deeply inspired my current PhD research trajectory: **leveraging Electrical Engineering tools and Neural Networks (Transformer/GRU) to model, simulate, and automate complex biochemical parameters without relying entirely on empirical trial-and-error.**
 
-這項研究讓我接受了紮實的濕實驗（Wet-lab）訓練，深刻體會到下游製程中**溫度、時間與純度/活性**三者之間複雜的消長關係。這段從傳統經驗科學出發的摸索，直接啟發了我目前博士班的研究核心──**利用電機工程的演算法（如 Transformer、GRU 神經網路）來建立生物反應與製程的數位雙生（Digital Twin），用 AI 來預測並優化這些複雜的多變因系統。**
